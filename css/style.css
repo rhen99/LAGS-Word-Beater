@@ -1,0 +1,24 @@
+body{
+    color: #fff;
+    background: #20252d;
+}
+header{
+    background: #839abf;
+    padding: .3rem;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
+input{
+    width: 100%;
+}
+#currentWord{
+    font-family: Arial, Helvetica, sans-serif
+}
+p{
+    font-weight: 600;
+}
+.card{
+    background: #839abf;
+}
